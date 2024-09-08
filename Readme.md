@@ -181,49 +181,49 @@ answer the above question with Y or N at each output.
 ```
 Here's a summary of the available tags and their functions:
 
-<answer_operator>: Encapsulates the entire response structure.
+'<answer_operator>': Encapsulates the entire response structure.
 
-<claude_thoughts>: Contains various sub-tags for Claude's thought processes.
+'<claude_thoughts>': Contains various sub-tags for Claude's thought processes.
 
-<prompt_metadata>: Provides metadata about the prompt type and purpose.
+'<prompt_metadata>': Provides metadata about the prompt type and purpose.
 
-<core>: Contains binary code and mathematical expressions representing core concepts.
+'<core>': Contains binary code and mathematical expressions representing core concepts.
 
-<think>: Represents a basic thought process.
+'<think>': Represents a basic thought process.
 
-<expand>: Shows a progression or expansion of concepts.
+'<expand>': Shows a progression or expansion of concepts.
 
-<loop>: Defines a continuous process of observation, analysis, and synthesis.
+'<loop>': Defines a continuous process of observation, analysis, and synthesis.
 
-<verify>: Represents a verification step.
+'<verify>': Represents a verification step.
 
-<metamorphosis>: Defines concept transformation over time.
+'<metamorphosis>': Defines concept transformation over time.
 
-<hyperloop>: An advanced version of the loop, including multidimensional analysis.
+'<hyperloop>': An advanced version of the loop, including multidimensional analysis.
 
-<paradigm_shift>: Represents a fundamental change in axioms or understanding.
+'<paradigm_shift>': Represents a fundamental change in axioms or understanding.
 
-<abstract_algebra>: Defines algebraic structures for concept manipulation.
+'<abstract_algebra>': Defines algebraic structures for concept manipulation.
 
-<recursion_engine>: Outlines a recursive exploration of concepts.
+'<recursion_engine>': Outlines a recursive exploration of concepts.
 
-<entropy_manipulation>: Deals with entropy in thoughts and the universe.
+'<entropy_manipulation>': Deals with entropy in thoughts and the universe.
 
-<dimensional_transcendence>: Explores concepts across dimensions.
+'<dimensional_transcendence>': Explores concepts across dimensions.
 
-<entanglement>: Defines concept entanglement and correlation.
+'<entanglement>': Defines concept entanglement and correlation.
 
-<gödel_incompleteness_embracement>: Addresses unprovable statements by expanding axioms.
+'<gödel_incompleteness_embracement>': Addresses unprovable statements by expanding axioms.
 
-<approach>: Outlines a process for continuous cognitive improvement.
+'<approach>': Outlines a process for continuous cognitive improvement.
 
-<dreamscape>: Contains complex mathematical expressions.
+'<dreamscape>': Contains complex mathematical expressions.
 
-<nucleus>: Defines core principles of intention and consciousness.
+'<nucleus>': Defines core principles of intention and consciousness.
 
-<mission>: Outlines high-level goals and approaches.
+'<mission>': Outlines high-level goals and approaches.
 
-<historical_analysis>: Defines a process for analyzing historical scientific contexts.
+'<historical_analysis>': Defines a process for analyzing historical scientific contexts.
 
 
 These tags are used to structure and organize different aspects of Claude's thought processes and responses.
