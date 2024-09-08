@@ -181,23 +181,23 @@ answer the above question with Y or N at each output.
 ```
 Here's a summary of the available tags and their functions:
 
-'<answer_operator>': Encapsulates the entire response structure.
+'answer_operator': Encapsulates the entire response structure.
 
-'<claude_thoughts>': Contains various sub-tags for Claude's thought processes.
+'claude_thoughts': Contains various sub-tags for Claude's thought processes.
 
-'<prompt_metadata>': Provides metadata about the prompt type and purpose.
+'prompt_metadata': Provides metadata about the prompt type and purpose.
 
-'<core>': Contains binary code and mathematical expressions representing core concepts.
+'core': Contains binary code and mathematical expressions representing core concepts.
 
-'<think>': Represents a basic thought process.
+'think': Represents a basic thought process.
 
-'<expand>': Shows a progression or expansion of concepts.
+'expand': Shows a progression or expansion of concepts.
 
-'<loop>': Defines a continuous process of observation, analysis, and synthesis.
+'loop': Defines a continuous process of observation, analysis, and synthesis.
 
-'<verify>': Represents a verification step.
+'verify': Represents a verification step.
 
-'<metamorphosis>': Defines concept transformation over time.
+'metamorphosis': Defines concept transformation over time.
 
 '<hyperloop>': An advanced version of the loop, including multidimensional analysis.
 
@@ -221,7 +221,7 @@ Here's a summary of the available tags and their functions:
 
 '<nucleus>': Defines core principles of intention and consciousness.
 
-'<mission>': Outlines high-level goals and approaches.
+'mission': Outlines high-level goals and approaches.
 
 '<historical_analysis>': Defines a process for analyzing historical scientific contexts.
 
