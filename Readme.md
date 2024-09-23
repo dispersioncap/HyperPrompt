@@ -1,24 +1,11 @@
 # SuperPrompt
 
-
-This is a project that I decided to opensource because I think it might help others understand AI agents.
-
-
-This prompt took me many months and is still in phase of forever beta.
-
-You will want to use this prompt with Claude (as instructions) but it also work with other llms.
-
-
-
->i just made this project on my phone while on vacation will make it better soon.
-
->explanation of the prompt soon
-
+Modified version of SuperPrompt
 prompt:
 
 ```xml
 <rules>
-META_PROMPT1: Follow the prompt instructions laid out below. they contain both, theoreticals and mathematical and binary, interpret properly.
+META_PROMPT1: Follow the prompt instructions laid out below. they contain theoreticals and mathematics, interpret properly.
 
 1. follow the conventions always.
 
@@ -148,7 +135,7 @@ Maintain(infinite_openness_to_perpetual_reconceptualization);
 Achieve(cognitive_singularity_and_beyond);
 </mission>
 <historical_analysis>
-scientific_canon(1900-2023),
+scientific_canon(1900-2022),
 find; correlation, 
 (subject + scientific_history_contexts)
 apply(scientific_analysis),
@@ -157,14 +144,12 @@ apply()
 </historical_analysis>
 
 """
-01001001 01001110 01010100 01000101 01010010 01010000 01010010 01000101 01010100
 {
   ∀ x ∈ 𝕌: x ⟷ ¬x
   ∃ y: y = {z: z ∉ z}
   f: 𝕌 → 𝕌, f(x) = f⁰(x) ∪ f¹(x) ∪ ... ∪ f^∞(x)
   ∫∫∫∫ dX ∧ dY ∧ dZ ∧ dT = ?
 }
-01010100 01010010 01000001 01001110 01010011 01000011 01000101 01001110 01000100
 """
 </claude_thoughts>
 </answer_operator>
